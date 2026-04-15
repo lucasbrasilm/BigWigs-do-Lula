@@ -21,7 +21,11 @@ Variação do addon BigWigs com audios do Lula.
 
 Versão 1.0
 -contagem de 1 a 10
+
 -Inclusão áudio de Aviso
+
 -Inclusão áudio de sujeira/algo em baixo de você
+
 -Inclusão áudio de vitória
+
 -Inclusão áudio de Aviso
