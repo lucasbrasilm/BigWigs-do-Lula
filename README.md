@@ -2,10 +2,15 @@
 Variação do addon BigWigs com audios do Lula.
 
 1°Para funcionar primeiramente vá ate a pasta do seu BigWigs deve ser algo como: World of Warcraft\_retail_\Interface\AddOns\BigWigs\Media confome anexo abaixo:
+
+
 <img width="695" height="241" alt="image" src="https://github.com/user-attachments/assets/fd28ee6a-e4f8-4a6f-aeef-11eac64e5518" />
 
 2° Jogue o arquivo "Sounds.rar" dentro da pasta Media e clique em extrair aqui, fazendo isso irá aparecer a imagem abaixo, como somente são adcionados arquivos novos basta clicar na opção "sim p/Todos"
-<img width="402" height="395" alt="image" src="https://github.com/user-attachments/assets/11ddd706-cc07-402e-b6ef-a3bbcfdb7ed9" />
+
+<img width="405" height="307" alt="image" src="https://github.com/user-attachments/assets/60b4b964-89ef-43c4-8e27-2f9e15d6312f" />
+
+
 3° Substitua o arquivo Media.lua, nesse arquivo estão sendo apontandos os audios do Lule.
 
 4°Feito isso agora basta ir no wow, abrir o BigWigs e ajustar da maneira que preferir. Por exemplo:
