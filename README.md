@@ -1,31 +1,35 @@
- BigWigs-do-Lula
-Variação do addon BigWigs com audios do Lula.
+<h1>BigWigsLula 1.5</h1>
+Variação do addon BigWigs com áudios do Lula.
 
-1°Para funcionar primeiramente vá ate a pasta do seu BigWigs deve ser algo como: World of Warcraft\_retail_\Interface\AddOns\BigWigs\Media confome anexo abaixo:
+<br></br>
 
+<p>1° Para funcionar primeiramente vá ate a pasta do seu BigWigs deve ser algo como: "World of Warcraft\_retail_\Interface\AddOns\BigWigs."Vá para a pasta Media e substitua o arquivo Media.Lua e insira 
+dentro da pasta "Sounds" a pasta "Lula".</p>
 
-<img width="695" height="241" alt="image" src="https://github.com/user-attachments/assets/fd28ee6a-e4f8-4a6f-aeef-11eac64e5518" />
-
-2° Jogue o arquivo "Sounds.rar" dentro da pasta Media e clique em extrair aqui, fazendo isso irá aparecer a imagem abaixo, como somente são adcionados arquivos novos basta clicar na opção "sim p/Todos"
-
-<img width="405" height="307" alt="image" src="https://github.com/user-attachments/assets/60b4b964-89ef-43c4-8e27-2f9e15d6312f" />
-
-
-3° Substitua o arquivo Media.lua, nesse arquivo estão sendo apontandos os audios do Lule.
-
-4°Feito isso agora basta ir no wow, abrir o BigWigs e ajustar da maneira que preferir. Por exemplo:
-<img width="634" height="278" alt="image" src="https://github.com/user-attachments/assets/df170ab9-812d-4b69-b249-7cc8d3892556" />
-<img width="545" height="381" alt="image" src="https://github.com/user-attachments/assets/a69509a8-5157-437d-bf5f-26644990895c" />
-<img width="629" height="305" alt="image" src="https://github.com/user-attachments/assets/6e317430-305d-4223-aad5-6a98464070b9" />
+<img width="648" height="256" alt="image" src="https://github.com/user-attachments/assets/3384a3aa-9d0a-45af-8f4b-45bc110b4083" />
+<p></p>
+<img width="567" height="174" alt="image" src="https://github.com/user-attachments/assets/4a652391-5fbf-4b20-809f-1b4b0fc35d3d" />
 
 
-Versão 1.0
--contagem de 1 a 10
 
--Inclusão áudio de Aviso
 
--Inclusão áudio de sujeira/algo em baixo de você
 
--Inclusão áudio de vitória
+<p>2°Feito isso agora basta ir no wow, abrir o BigWigs e ajustar substituindo nele pelos áudios do Lula, todos estarão com "BigWigsLula" na frente seguido da situação.</p>
 
--Inclusão áudio de Aviso
+<h3>Controle de versão</h3>
+<p>Versão 1.5</p>
+<ul>
+  <li>Melhoria na qualidade e no volume (+10-15db) de todos os áudios.</li>
+  <li>Otimização e organização de arquivos facilitando novas instalações pós atualização do BigWigs.</li>
+  <li>Inserção do áudio de derrota e ajuste no áudio de vitória.</li>
+</ul>
+<p>Versão 1.0</p>
+<ul>
+	<li>Contagem regressiva.</li>
+    <li>Inclusão áudio de sujeira/algo em baixo de você.</li>
+    <li>Inclusão áudio de vitória.</li>
+    <li>Inclusão áudio de Aviso.</li>
+</ul>
+
+
+
