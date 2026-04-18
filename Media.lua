@@ -23,8 +23,8 @@ do
 	media:Register(SOUND, "BigWigs: Long", "Interface\\AddOns\\BigWigs\\Media\\Sounds\\Long.ogg")
 	media:Register(SOUND, "BigWigs: Info", "Interface\\AddOns\\BigWigs\\Media\\Sounds\\Info.ogg")
 	media:Register(SOUND, "BigWigs: Alert", "Interface\\AddOns\\BigWigs\\Media\\Sounds\\Alert.ogg")
-	media:Register(SOUND, "BigWigsLula: sai_da_sujeira", "Interface\\AddOns\\BigWigs\\Media\\Sounds\\sai_da_sujeira.ogg")
-	media:Register(SOUND, "BigWigsLula: Cauiddo", "Interface\\AddOns\\BigWigs\\Media\\Sounds\\Cuidado.ogg")
+	media:Register(SOUND, "BigWigsLula: Saia da Sujeira", "Interface\\AddOns\\BigWigs\\Media\\Sounds\\Lula\\saia_da_sujeira.ogg")
+	media:Register(SOUND, "BigWigsLula: Cuidado", "Interface\\AddOns\\BigWigs\\Media\\Sounds\\Lula\\cuidado.ogg")
 
 	-- Ingame sounds
 	media:Register(SOUND, "BigWigs: ".. L.FlagTaken, 569200) -- Sound\\Spells\\PVPFlagTaken
@@ -43,7 +43,8 @@ do
 	end
 
 	-- Victory
-	media:Register(SOUND, "BigWigs: Voce Venceu", "Interface\\AddOns\\BigWigs\\Media\\Sounds\\VoceVenceu.ogg")
+	media:Register(SOUND, "BigWigsLula: Voce Venceu", "Interface\\AddOns\\BigWigs\\Media\\Sounds\\Lula\\voce_venceu.ogg")
+	media:Register(SOUND, "BigWigsLula: Derrota", "Interface\\AddOns\\BigWigs\\Media\\Sounds\\Lula\\derrota_gozar.ogg")
 	media:Register(SOUND, "BigWigs: Victory Long", "Interface\\AddOns\\BigWigs\\Media\\Sounds\\VictoryLong.ogg")
 	media:Register(SOUND, "BigWigs: Victory Classic", "Interface\\AddOns\\BigWigs\\Media\\Sounds\\VictoryClassic.ogg")
 end
@@ -103,7 +104,7 @@ addonTbl.API:RegisterCountdown("English: Jim", "English: Jim", {
 	"Interface\\AddOns\\BigWigs\\Media\\Sounds\\Jim\\9.ogg",
 	"Interface\\AddOns\\BigWigs\\Media\\Sounds\\Jim\\10.ogg",
 })
-addonTbl.API:RegisterCountdown("English: Lula", "English: Lula", {
+addonTbl.API:RegisterCountdown("Português: Lula", "Português: Lula", {
 	"Interface\\AddOns\\BigWigs\\Media\\Sounds\\Lula\\1.ogg",
 	"Interface\\AddOns\\BigWigs\\Media\\Sounds\\Lula\\2.ogg",
 	"Interface\\AddOns\\BigWigs\\Media\\Sounds\\Lula\\3.ogg",
